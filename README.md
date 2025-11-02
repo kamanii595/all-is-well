@@ -1,3 +1,3 @@
 # all-is-well
-my first git repository
+my first git repository.
 Author-kamana siwakoti
